@@ -4,6 +4,9 @@
 - 🔎 I'm looking forward to contribute to some open source projects.
 
 
+
+Languages and Tools:
+c cplusplus 
 <!---
 ak-2301/ak-2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
