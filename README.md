@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 I'm currently a final year student at ABES Engineering College, Ghaziabad.
 
-- 🔭 I’m currently working on Flutter.
+- 📚 I’m currently working on Flutter and my DSA skills.
 
 - 🔎 I'm looking forward to contribute to some open source projects.
 
