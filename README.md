@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I'm currently a final year student at ABES Engineering College, Ghaziabad.
+- 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
 
 - 📚 I’m currently learning Flutter.
 
