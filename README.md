@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
 
-- 📚 I’m currently learning Flutter.
-
 - ⚡️ Understanding and practicing DSA everyday.
 
 - 🔎 I'm looking forward to contribute to some open source projects.
