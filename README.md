@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ankit Kansal</h1>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
