@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
 
-- 👨‍💻 I’m currently learning **ReactJS**
+- 👨‍💻 I’m currently learning **NextJS**
 
 - ⚡️ Understanding and practicing DSA everyday.
 
