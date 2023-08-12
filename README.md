@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16AQcQ6hJQmp-rN2sEfDvHKLgOhIRAA1I/view?usp=sharing)
 -->
-<h1 align="center">Hi 👋, I'm Ankit Kansal</h1>
+<h1 align="left">Hi 👋, I'm Ankit Kansal</h1>
+<h3 align="left">A Tech Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>-->
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
 
 - 👨‍💻 I’m currently learning **NextJS**
 
