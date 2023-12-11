@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>-->
 
-- 👨‍💻 I’m currently learning **Backend**
+- 👨‍💻 I’m currently learning **Full-Stack Development**
 
 - ⚡️ Understanding and practicing DSA everyday.
 
