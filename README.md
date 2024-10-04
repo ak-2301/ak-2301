@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Ankit Kansal</h1>
 <h3 align="left">A Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>  -->
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-2301&label=Profile%20views&color=0e75b6&style=flat" alt="ak-2301" /> </p>-->
 
-- 👨‍💻 I’m currently learning **Full-Stack Development**
+- 👨‍💻 I’m currently working on **Java Spring boot**
 
-- ⚡️ Understanding and practicing DSA everyday.
+- 💬 Ask me about anything, I am happy to help.
 
 - 🔎 I'm looking forward to contribute to some open source projects.
 
@@ -30,12 +30,9 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Links:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/ak_2301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ak_2301" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ak_2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ak_2301" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ak_2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ak_2301" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/heykansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ak_2301" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit2301" height="30" width="40" /></a>
 </p>
 
 
@@ -51,4 +48,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ak-2301&show_icons=true&locale=en" alt="ak-2301" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-2301&" alt="ak-2301" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-2301&" alt="ak-2301" /></p>-->
