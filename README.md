@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔎 I'm looking forward to contribute to some open source projects.
 
-- 📫 How to reach me **2301kansal@gmail.com**
+- 📫 How to reach me **ankitkansal.dev@gmail.com**
 
 
 
