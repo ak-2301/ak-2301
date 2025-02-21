@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 <h3 align="left">Github Stats :</h3>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ak-2301&show_icons=true&locale=en&layout=compact" alt="ak-2301" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ak-2301&show_icons=true&locale=en" alt="ak-2301" /></p>
+
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-2301&" alt="ak-2301" /></p>-->
